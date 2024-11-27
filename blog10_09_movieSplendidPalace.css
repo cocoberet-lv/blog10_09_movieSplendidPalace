@@ -161,7 +161,6 @@ header {
     line-height: 2;
 }
 
-/* ①右側　cssで画像の挿入の場合 */
 .blog-img {
     background-image: url(blog10_09_movie.img/movie5.jpg);
     background-position: top;
